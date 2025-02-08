@@ -11,3 +11,6 @@ console.log(person2);
 
 let person3 = "saurab";
 console.log(person3);
+
+const person4 = "dhiraj";
+console.log(person4);
