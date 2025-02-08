@@ -14,3 +14,6 @@ console.log(person3);
 
 const person4 = "dhiraj";
 console.log(person4);
+
+var person5 = "sagun";
+console.log(person5);
