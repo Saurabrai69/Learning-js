@@ -17,3 +17,6 @@ console.log(person4);
 
 var person5 = "sagun";
 console.log(person5);
+
+const person6 = "prsan";
+console.log(person6);
