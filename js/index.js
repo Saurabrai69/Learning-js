@@ -1,38 +1,31 @@
+// console.log("hello world");
+// const person = "saurab ";
+// console.log(person);
+// let name = "sagun";
+// console.log(name);
+
+// alert("hello world");
+
+// const user = prompt("whatis your name");
+// console.log(user);
+
+// alert(`welcome back, ${user}`);
+
+// const isStudent = confirm("are you above 18");
+// console.log(isStudent);
+
 console.log("hello world");
-
-//es5
-var name = "saurab";
-var name = "shyam";
-console.log(name);
-
-//ES6
-// let, const
-
 const person = "saurab";
 console.log(person);
 
-let school = "abc";
-school = "xyz";
-console.log(school);
+let name = "sagun";
+console.log(name);
 
-//var, let, const
-
-//alert("hello world");
-//const user = prompt("what is your name");
-//console.log(user);
-
-const isStudent = confirm("are you above 18");
-console.log(isStudent);
-
-alert("welcome saurab");
+alert("hello world");
 const user = prompt("what is your name");
 console.log(user);
 
-alert(user);
-
-//1
-const greeter = "welcome back," + user;
-alert(greeter);
-
-//2 String Literal
 alert(`welcome back, ${user}`);
+
+const isStudent = confirm("are you above 18");
+console.log(isStudent);
