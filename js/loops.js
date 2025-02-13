@@ -15,16 +15,16 @@
 // }
 
 // Sum Of 1 to 100
-
-// for (let sum = 0; s <= 100; s++) {
-//   sum += s;
-// }
-// console.log(sum);
+let sum = 0;
+for (i = 1; i <= 100; i++) {
+  sum += i;
+}
+console.log(sum);
 
 // do while
 //do{}while()
-let k = 1;
-do {
-  console.log(k);
-  k++;
-} while (k <= 10);
+// let k = 1;
+// do {
+//   console.log(k);
+//   k++;
+// } while (k <= 10);

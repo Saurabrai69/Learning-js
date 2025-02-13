@@ -1,31 +1,11 @@
-// console.log("hello world");
-// const person = "saurab ";
-// console.log(person);
-// let name = "sagun";
-// console.log(name);
+// Data Types
+// string let colour = "yellow";
+// number let weight = 7.5;
+// bigint let hugeString = BigInt("9878454454"); //654564564n
+// Boolean let x = true;
+// Undefined let x;
 
-// alert("hello world");
-
-// const user = prompt("whatis your name");
-// console.log(user);
-
-// alert(`welcome back, ${user}`);
-
-// const isStudent = confirm("are you above 18");
-// console.log(isStudent);
-
-console.log("hello world");
-const person = "saurab";
-console.log(person);
-
-let name = "sagun";
-console.log(name);
-
-alert("hello world");
-const user = prompt("what is your name");
-console.log(user);
-
-alert(`welcome back, ${user}`);
-
-const isStudent = confirm("are you above 18");
-console.log(isStudent);
+// const name="3e2635"
+// const number=2342342344
+const green = null;
+const boy = "boy";

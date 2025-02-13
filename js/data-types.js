@@ -33,14 +33,14 @@
 // console.log(num, numToString);
 
 // //Write a program that divides the two numbers asking user for the 2 numbers inputs and alert the result.
-const num1 = +prompt(" first number please");
+// const num1 = +prompt(" first number please");
 
-const num2 = prompt("second number please");
-console.log(typesof num2);
-const result = num1 / num2;
-alert(`The result of devision between ${num1} and ${num2} is ${result}`);
+// const num2 = prompt("second number please");
+// console.log(typesof num2);
+// const result = num1 / num2;
+// alert(`The result of devision between ${num1} and ${num2} is ${result}`);
 
-//unary Operator 
+//unary Operator
 // let val = 1;
 // val++; //2
 // val += 1; //3
