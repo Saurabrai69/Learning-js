@@ -15,11 +15,11 @@
 // }
 
 // Sum Of 1 to 100
-let sum = 0;
-for (i = 1; i <= 100; i++) {
-  sum += i;
-}
-console.log(sum);
+// let sum = 0;
+// for (i = 1; i <= 100; i++) {
+//   sum += i;
+// }
+// console.log(sum);
 
 // do while
 //do{}while()
@@ -28,3 +28,19 @@ console.log(sum);
 //   console.log(k);
 //   k++;
 // } while (k <= 10);
+
+// practice
+
+// alert("hello world");
+// console.log("hello world");
+// const pi = "3.14";
+// console.log(pi);
+
+// const num1 = +prompt("enter first number");
+// const num2 = +prompt("enter second number");
+// let sum = num1 + num2;
+// if (num1 === num2) {
+//   alert(`${sum * 3}`);
+// } else {
+//   alert(sum);
+// }

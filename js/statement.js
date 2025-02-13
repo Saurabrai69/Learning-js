@@ -66,11 +66,11 @@
 // (tea, coffee coke,
 //alert => you have ordered......
 
-const drink = prompt("what would you like to drink");
-drink === "tea"
-  ? alert(`you have ordered tea`)
-  : drink === "coffee"
-  ? alert(`you have ordered coffee`)
-  : drink === "coke"
-  ? alert(`you have ordered coke`)
-  : alert("sorry thats not in menue");
+// const drink = prompt("what would you like to drink");
+// drink === "tea"
+//   ? alert(`you have ordered tea`)
+//   : drink === "coffee"
+//   ? alert(`you have ordered coffee`)
+//   : drink === "coke"
+//   ? alert(`you have ordered coke`)
+//   : alert("sorry thats not in menue");
